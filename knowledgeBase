@@ -1,0 +1,1 @@
+pyinstaller download.py --onefile --console --name yt_downloader --add-binary "ffmpeg.exe;."
